@@ -1,13 +1,14 @@
 # Organizer 
 Organizer è un'applicazione per la gestione personale delle attività principali di un utente.
 ## Requisiti funzionali 
-Organizer è composto da 6 sezioni principali:
+Nell'interfaccia grafica, Organizer è composto da 6 sezioni principali:
 - Home
 - Calendario
 - Allenamento
 - Scuola
 - Business
 - Profilo
+Queste sezioni sono disposte in una sidebar, e la grafica non potrà essere personalizzabile dall'utente. Organizer dispone di una grafica molto moderna e interattiva.
 
 All'interno dell'applicazione è presente l'home page in cui saranno presenti tutti gli aggiornamenti e le notizie recenti per l'utente.
 
@@ -33,3 +34,6 @@ Nella sezione "Profilo" è composto da varie sottosezioni:
 - Impostazioni, in cui l'utente può modificare le proprie informazioni
 - Eliminazione, in cui l'utente può eliminare il proprio profilo, ed eliminerà tutti i dati in modo definitivo
 ## Requisiti non funzionali
+Nell'applicazione si può includere anche possibili requisiti:
+- Multiutente, in cui i vari utenti possano interagire tra di loro, e confrontarsi sui varie sezioni
+- Obbiettivi, in cui l'applicazione imposta degli obbiettivi in base
