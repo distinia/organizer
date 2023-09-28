@@ -1,4 +1,4 @@
-# organizer
+# Organizer
 Organizer sarà un'applicazione per la gestione personale delle attività principali di un utente.
 Sarà composto da 4 sezioni:
 - Calendario
@@ -6,11 +6,11 @@ Sarà composto da 4 sezioni:
 - Scuola
 - Economia
 
-# Calendario
+## Calendario
 g
-# Allenamento
+## Allenamento
 g
-# Scuola
+## Scuola
 g
-# Economia
+## Economia
 g
