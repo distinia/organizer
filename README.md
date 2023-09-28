@@ -1,39 +1,42 @@
-# Organizer 
-Organizer è un'applicazione per la gestione personale delle attività principali di un utente.
-## Requisiti funzionali 
-Nell'interfaccia grafica, Organizer è composto da 6 sezioni principali:
-- Home
-- Calendario
-- Allenamento
-- Scuola
-- Business
-- Profilo
-Queste sezioni sono disposte in una sidebar, e la grafica non potrà essere personalizzabile dall'utente. Organizer dispone di una grafica molto moderna e interattiva.
+Organizer è un'applicazione progettata per agevolare la gestione delle attività quotidiane e la pianificazione personale degli utenti. Questa piattaforma offre una serie di funzionalità chiave suddivise in sei sezioni principali, ciascuna progettata per soddisfare specifiche esigenze dell'utente.
+# Requisiti Funzionali
+## Interfaccia Grafica
+L'interfaccia grafica di Organizer è caratterizzata da un design moderno e interattivo. E' composta da 6 sezioni principali, accessibili tramite una sidebar. Le sezioni sono le seguenti:
+   - Home: Mostra gli aggiornamenti e le notizie recenti per l'utente.
+   - Calendario: Per la gestione delle attività programmate.
+   - Allenamento: Per la pianificazione degli esercizi fisici.
+   - Scuola: Per tenere traccia dei voti e dei compiti scolastici.
+   - Business: Per gestire guadagni, pagamenti e informazioni lavorative.
+   - Profilo: Per visualizzare, modificare o eliminare il proprio profilo.
 
-All'interno dell'applicazione è presente l'home page in cui saranno presenti tutti gli aggiornamenti e le notizie recenti per l'utente.
+## Sezione "Calendario"
+La sezione "Calendario" è suddivisa in due sottosezioni:
+   - Agenda: Consente di visualizzare le attività programmate per il mese, la settimana o il giorno corrente.
+   - Prenotazione: Per la fissazione, modifica o eliminazione delle attività nell'agenda.
 
-Nella sezione "Calendario" è composto da varie sottosezioni:
-- Agenda, in cui è suddiviso in mesi, ove sono presenti tutte le attività fissate per il mese/settimana/giorno.
-- Prenotazione, in cui l'utente può fissare, modificare o eliminare un attività dall'agenda.
+## Sezione "Allenamento"
+La sezione "Allenamento" comprende:
+   - Esercizi: Offre una lista di esercizi suddivisi per giorni.
+   - Resoconto: Mostra l'avanzamento degli allenamenti.
 
-Nella sezione "Allenamento" è composto da varie sottosezioni:
-- Esercizi, in cui ci sono esercizi disponibili per l'utente suddivisi in giorni.
-- Resoconto, in cui mostra l'avanzamento degli allenamenti.
+## Sezione "Scuola"
+La sezione "Scuola" offre:
+  - Voti: Consente di registrare i voti di tutte le materie, con la possibilità di aggiungere nuove materie.
+  - Compiti: Per tenere traccia dei compiti assegnati e completati.
 
-Nella sezione "Scuola" è composto da varie sottosezioni:
-- Voti, in cui ci sono i voti di tutte le materie, l'utente può aggiungere materie materie.
-- Compiti, in cui sono presenti i compiti assegnati e completati.
+## Sezione "Business"
+La sezione "Business" include:
+   - Guadagni: Visualizza tutti i tipi di guadagno registrati.
+   - Pagamenti: Registra tutti i pagamenti effettuati.
+   - Lavoro: Per gestire informazioni e dati relativi a vari business e lavori.
 
-Nella sezione "Business" è composto da varie sottosezioni:
-- Guadagni, in cui sono indicati tutti i tipi di guadagno effettuati.
-- Pagamenti, in cui sono indicati tutti i pagamenti effettuati.
-- Lavoro, in cui sono presenti le informazioni e dati del proprio lavoro. L'utente può includere vari business e lavori a suo piacimento.
+## Sezione "Profilo"
+La sezione "Profilo" offre le seguenti sottosezioni:
+   - Generalità: Per visualizzare le proprie informazioni personali.
+   - Impostazioni: Per la modifica delle informazioni personali.
+   - Eliminazione: Per eliminare definitivamente il proprio profilo, inclusi tutti i dati associati.
 
-Nella sezione "Profilo" è composto da varie sottosezioni:
-- Generalità, in cui l'utente può vedere le proprie informazioni
-- Impostazioni, in cui l'utente può modificare le proprie informazioni
-- Eliminazione, in cui l'utente può eliminare il proprio profilo, ed eliminerà tutti i dati in modo definitivo
-## Requisiti non funzionali
-Nell'applicazione si può includere anche possibili requisiti:
-- Multiutente, in cui i vari utenti possano interagire tra di loro, e confrontarsi sui varie sezioni
-- Obbiettivi, in cui l'applicazione imposta degli obbiettivi in base
+# Requisiti Non Funzionali
+Oltre ai requisiti funzionali, Organizer può includere ulteriori funzionalità:
+- Multiutente: Gli utenti possono interagire tra loro e condividere informazioni nelle diverse sezioni.
+- Obiettivi: L'applicazione può impostare obiettivi personali in base alle attività pianificate e ai progressi dell'utente.
