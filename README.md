@@ -1,6 +1,6 @@
 # Organizer 
 Organizer è un'applicazione per la gestione personale delle attività principali di un utente.
-## Requisiti funzionali
+## Requisiti funzionali 
 Organizer è composto da 4 sezioni:
 - Home
 - Calendario
