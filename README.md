@@ -40,3 +40,6 @@ La sezione "Profilo" offre le seguenti sottosezioni:
 Oltre ai requisiti funzionali, Organizer può includere ulteriori funzionalità:
 - Multiutente: Gli utenti possono interagire tra loro e condividere informazioni nelle diverse sezioni.
 - Obiettivi: L'applicazione può impostare obiettivi personali in base alle attività pianificate e ai progressi dell'utente.
+
+# Grafico UML
+![diagramma UML](https://yuml.me/a6e0be22.png)
