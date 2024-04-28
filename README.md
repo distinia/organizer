@@ -42,7 +42,7 @@ Oltre ai requisiti funzionali, Organizer può includere ulteriori funzionalità:
 - Obiettivi: L'applicazione può impostare obiettivi personali in base alle attività pianificate e ai progressi dell'utente.
 
 # Grafico UML
-![diagramma UML](https://yuml.me/a6e0be22.png)
+![diagramma UML](https://yuml.me/c148a8bf.png)
 
 # WBS
 
